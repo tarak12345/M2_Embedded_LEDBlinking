@@ -47,3 +47,26 @@
 
 ### HOW
 -The Blinking LED is a passive device that converts the light energy into an electrical signal output
+
+## HIGH LEVEL REQUIREMENTS
+
+| TEST ID              |  DESCRIPTION
+|---------------       |-----------------
+|H_01                  |LEDs are extremely energy efficient and consume up to 90% less power than incandescent bulbs
+|H_02                  |LED blinking circuit can be used as flashing beacon
+|H_03                  |It can be used in operation theaters or offices as an indication that you are engaged in work
+
+
+## LOW LEVEL REQUIREMENTS
+
+| TEST ID              |  DESCRIPTION
+|---------------       |-----------------
+|L_01                  |High up-front costs
+|L_02                  |Performance standardization has not yet been streamlined
+|L_03                  |The Blinking LED is a passive device that converts the light energy into an electrical signal output
+
+
+
+
+
+
