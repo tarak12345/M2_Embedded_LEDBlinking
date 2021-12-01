@@ -1,3 +1,6 @@
+
+[![CI](https://github.com/tarak12345/M2_Embedded_LEDBlinking/actions/workflows/blank.yml/badge.svg)](https://github.com/tarak12345/M2_Embedded_LEDBlinking/actions/workflows/blank.yml)
+
 # M2_Embedded_LEDBlinkingAtmega32
 ## LED BLINKING using ATMEGA32 AVR micrcontroller.
 This article will tell you how to proceed towards the basic programming of AVR Atmega32. You will learn how to develop codes  for blinking LEDs through Atmega32. You will also learn how to determine direction of I/O pins and how to make the status of output pins high or low.
